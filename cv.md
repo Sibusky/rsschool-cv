@@ -115,3 +115,5 @@ function humanReadable(seconds) {
 ## Additional info
 
 In spare time I learn languages, dance bachata, travel, play board games and take participation in quizzes
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

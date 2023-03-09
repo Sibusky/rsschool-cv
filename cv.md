@@ -53,24 +53,24 @@ function humanReadable(seconds) {
 ### Freelance
 
 1. Commercial project. **Site layout for marine company.**   
-   Stack: HTML, CSS, JavaScript, Webpack.   
+   *Stack*: HTML, CSS, JavaScript, Webpack.   
    [Link](https://sibusky.github.io/sea-breeze-main/)   
    [GitHub](https://github.com/Sibusky/sea-breeze-main)   
 
 2. Pet-project. **Georgian alphabet trainer.** App that helps to learn Georgian alphabet by replacing Russian letters step by step with Georgian ones in different texts.   
-   Stack: HTML, CSS, JavaScript.   
+   *Stack*: HTML, CSS, JavaScript.   
    [Link](https://sibusky.github.io/georgian-alphabet/index.html)   
    [GitHub](https://github.com/Sibusky/georgian-alphabet)   
 
 ### Yandex Practicum (study projects)
 
 1. **Movies Explorer**. App with user’s registration / authorization which provides ability to search films in a store and save them in the user's database. Both frontend and backend parts were realized by me.   
-   Stack: Full stack-development, JavaScript, React.js, Node.js, Express, Nginx, HTML, CSS.   
+   *Stack*: Full stack-development, JavaScript, React.js, Node.js, Express, Nginx, HTML, CSS.   
    [Link](https://bitfilms.smirnov.nomoredomains.icu)   
    [GitHub](https://github.com/Sibusky/movies-explorer-frontend)   
 
-2. **Mesto**. Instagram’s analog with user’s registration / authorization which provides ability to upload photos. Both frontend and backend parts were realized by me.
-   Stack: Full stack-development, JavaScript, React.js, Node.js, Express, Nginx, HTML, CSS.   
+2. **Mesto**. Instagram’s analog with user’s registration / authorization which provides ability to upload photos. Both frontend and backend parts were realized by me.   
+   *Stack*: Full stack-development, JavaScript, React.js, Node.js, Express, Nginx, HTML, CSS.   
    [Link](https://asmirnov.students.nomoredomains.icu)   
    [GitHub](https://github.com/Sibusky/react-mesto-api-full)   
 

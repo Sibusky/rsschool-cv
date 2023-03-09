@@ -8,13 +8,15 @@
 **Phone number RU:** +7-900-552-72-29 (_Telegram/WhatsApp only_)  
 **Phone number GEO:** +995-599077481  
 **Telegram:** @sibusky  
-E-mail: 5325388@gmail.com  
+**E-mail:** 5325388@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/smirnov-aleksei/)
 
 ## About
 
 Successfully completed “Web-developer” course at Yandex Practicum. Currently work on self-projects and small projects for customers as a freelancer. At the same time solve programming exercises on codewars.com (5 kyu). I’m good at self-management and also construct long-term non-toxic mutual relations in small groups of people.
-My dream is to work on an inspirational project in a small well-coordinated team. My next future plan is to learn TypeScript and state managers such as Redux or Mobx.
+My dream is to work on an inspirational project in a small well-coordinated team. 
+
+My next future plan is to learn TypeScript and state managers such as Redux or Mobx.
 
 ## Skills and Proficiency:
 
@@ -50,26 +52,27 @@ function humanReadable(seconds) {
 
 ### Freelance
 
-1. Commercial project. **Site layout for marine company.**
-   Stack: HTML, CSS, JavaScript, Webpack.
-   Link: https://sibusky.github.io/sea-breeze-main/
-   GitHub: https://github.com/Sibusky/sea-breeze-main
+1. Commercial project. **Site layout for marine company.**   
+   Stack: HTML, CSS, JavaScript, Webpack.   
+   [Link](https://sibusky.github.io/sea-breeze-main/)   
+   [GitHub](https://github.com/Sibusky/sea-breeze-main)   
 
-2. Pet-project. **Georgian alphabet trainer.** App that helps to learn Georgian alphabet by replacing Russian letters step by step with Georgian ones in different texts.
-   Stack: HTML, CSS, JavaScript.
-   Link:https://sibusky.github.io/georgian-alphabet/index.html
-   GitHub: https://github.com/Sibusky/georgian-alphabet
+2. Pet-project. **Georgian alphabet trainer.** App that helps to learn Georgian alphabet by replacing Russian letters step by step with Georgian ones in different texts.   
+   Stack: HTML, CSS, JavaScript.   
+   [Link](https://sibusky.github.io/georgian-alphabet/index.html)   
+   [GitHub](https://github.com/Sibusky/georgian-alphabet)   
 
 ### Yandex Practicum (study projects)
 
-1. **Movies Explorer**. App with user’s registration / authorization which provides ability to search films in a store and save them in the user's database. Both frontend and backend parts were realized by me.
-   Stack: Full stack-development, JavaScript, React.js, Node.js, Express, Nginx, HTML, CSS.
-   Link:https://bitfilms.smirnov.nomoredomains.icu
-   GitHub: https://github.com/Sibusky/movies-explorer-frontend
+1. **Movies Explorer**. App with user’s registration / authorization which provides ability to search films in a store and save them in the user's database. Both frontend and backend parts were realized by me.   
+   Stack: Full stack-development, JavaScript, React.js, Node.js, Express, Nginx, HTML, CSS.   
+   [Link](https://bitfilms.smirnov.nomoredomains.icu)   
+   [GitHub](https://github.com/Sibusky/movies-explorer-frontend)   
 
 2. **Mesto**. Instagram’s analog with user’s registration / authorization which provides ability to upload photos. Both frontend and backend parts were realized by me.
-   Link: https://asmirnov.students.nomoredomains.icu
-   GitHub:https://github.com/Sibusky/react-mesto-api-full
+   Stack: Full stack-development, JavaScript, React.js, Node.js, Express, Nginx, HTML, CSS.   
+   [Link](https://asmirnov.students.nomoredomains.icu)   
+   [GitHub](https://github.com/Sibusky/react-mesto-api-full)   
 
 ### Self-employed electrician
 
@@ -88,17 +91,17 @@ function humanReadable(seconds) {
 
 ## Education
 
-### 2023, Yandex Practicum. Web-developer.
+**2023**, Yandex Practicum. Web-developer.
 
-### 2010, Vologda State Technical University, Master's degree, Electrical, Electronic and Communications Engineering Technology/Technician.
+**2010**, Vologda State Technical University, Master's degree, Electrical, Electronic and Communications Engineering Technology/Technician.
 
-### 2009, Vologda State Technical University, Power Supply Engineer.
+**2009**, Vologda State Technical University, Power Supply Engineer.
 
 ## Languages
 
-**English:** B2 - Upper Intermediate,
-**German:** A1 - Anfänger
-**Georgian:** A1 - ელემენტარული დონე
+**English:** B2 - Upper Intermediate   
+**German:** A1 - Anfänger   
+**Georgian:** A1 - ელემენტარული დონე   
 
 ## Additional info
 

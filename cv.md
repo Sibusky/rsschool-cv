@@ -55,6 +55,8 @@ function humanReadable(seconds) {
 }
 ```
 
+[![codewars](https://www.codewars.com/users/Sibusky/badges/small)](https://www.codewars.com/users/Sibusky) 
+
 ## Experience
 
 ### Freelance
